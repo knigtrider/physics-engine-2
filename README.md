@@ -1,2 +1,2 @@
-# physics-engine-2
-learning physics in coding
+# staticSquare
+A static square made using Matter.js physics engine
